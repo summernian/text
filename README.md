@@ -1,6 +1,6 @@
 ﻿# text
 我箬汉三，又回来了~
-花几天研究下这个怎么玩~
+研究下这个怎么玩~
 
 设置
 
@@ -33,3 +33,28 @@ git命令
   -- 也可以在按esc退出编辑模式以后，切换到大写模式，连按两下Z。
   -- 吐槽完毕~！
 ·git log 查看提交历史
+
+·对比
+  -- git diff 工作区和暂存区的对比
+  -- git diff --cached 暂存区和版本库之间的对比(--staged)
+  -- git diff master 工作区和版本库之间的对比
+
+·撤销
+  -- git reset HEAD <file文件名> 从暂存区撤销到工作区
+  -- git checkout -- <file文件名> 从工作区撤销数据操作
+  -- git commit --amend 撤销上次操作重新提交
+
+·删除
+  -- git rm <file文件名> 删除暂存区的文件
+  -- git rm -f <file文件名> 工作区暂存区都删掉
+  -- git rm --cached <file文件名> 暂存区删除 工作区保留
+
+·恢复
+  -- git checkout commit_id <file文件名> 恢复单个文件
+  -- git reset --hard commit_id 恢复版本
+	- HEAD^ 回到上个版本
+	- HEAD~number 回到上几个版本
+  -- git reflog 查看操作行为
+
+·同步到远程仓库
+  -- 
