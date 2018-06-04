@@ -57,4 +57,14 @@ git命令
   -- git reflog 查看操作行为
 
 ·同步到远程仓库
-  -- 
+  -- git remote
+	- -v
+	- origin 获取地址
+  -- git push origin master 上传
+
+·多人协作解决冲突
+  -- git fetch
+	- git diff master origin/master 
+	- git merge origin/master 手动解决冲突 选择保留哪个
+  -- git pull 将远端同步到本地
+
