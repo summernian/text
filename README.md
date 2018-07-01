@@ -2,7 +2,7 @@
 
 研究下这个怎么玩，写个拖拽好了~~~
  
-~ 这个拖拽也要有点预览啊 [点击这里](https://summernian.github.io/text/)
+~ 这个拖拽也要有点预览啊 [点击这里](https://summernian.github.io/text/demo.html)
 
 
 ## git的一些基本命令
