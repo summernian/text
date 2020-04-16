@@ -88,14 +88,16 @@
 	- 到这一步基本上就没有特别的可以说了，鼠标点点就好了
 
 ## 关于git的修改重命名以及预览方法
-	* 常年不用老是忘 记录一下happy happy
+* 常年不用老是忘 记录一下happy happy
 
 ## 重命名 进入仓库 找到setting 点击进入
-	* repository name那里输入 然后点击Rename即可
-	* 妈个鸡，我记得以前可以改中文名字，现在居然不行了，日你大头！
+* repository name那里输入 然后点击Rename即可
+	- 妈个鸡，我记得以前可以改中文名字，现在居然不行了，日你大头！
+	
 ## 预览 还是setting  找到GitHub Pages 
-	* 点击Source下面的筛选 选择master branch 
-	* 出现的新地址，就是可以预览的地址了，niubility！
+* 点击Source下面的筛选 选择master branch 
+	- 出现的新地址，就是可以预览的地址了，niubility！
+	
 ## 我想这次我要是再忘记了就直接gg！
-	* 再改下排版
-	* 再再改一下
+* 再改下排版
+	-再再改一下
